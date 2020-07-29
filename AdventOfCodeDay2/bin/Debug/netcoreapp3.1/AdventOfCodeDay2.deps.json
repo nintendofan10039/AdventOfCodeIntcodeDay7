@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AdventOfCodeDay2/1.0.0": {
+        "dependencies": {
+          "Emulator": "1.0.0"
+        },
+        "runtime": {
+          "AdventOfCodeDay2.dll": {}
+        }
+      },
+      "Emulator/1.0.0": {
+        "runtime": {
+          "Emulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventOfCodeDay2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Mykola\source\repos\AdventOfCodeDay2\Emulator\bin\Debug\netstandard2.0\Emulator.deps.json
+C:\Users\Mykola\source\repos\AdventOfCodeDay2\Emulator\bin\Debug\netstandard2.0\Emulator.dll
+C:\Users\Mykola\source\repos\AdventOfCodeDay2\Emulator\bin\Debug\netstandard2.0\Emulator.pdb
+C:\Users\Mykola\source\repos\AdventOfCodeDay2\Emulator\obj\Debug\netstandard2.0\Emulator.csprojAssemblyReference.cache
+C:\Users\Mykola\source\repos\AdventOfCodeDay2\Emulator\obj\Debug\netstandard2.0\Emulator.AssemblyInfoInputs.cache
+C:\Users\Mykola\source\repos\AdventOfCodeDay2\Emulator\obj\Debug\netstandard2.0\Emulator.AssemblyInfo.cs
+C:\Users\Mykola\source\repos\AdventOfCodeDay2\Emulator\obj\Debug\netstandard2.0\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Mykola\source\repos\AdventOfCodeDay2\Emulator\obj\Debug\netstandard2.0\Emulator.dll
+C:\Users\Mykola\source\repos\AdventOfCodeDay2\Emulator\obj\Debug\netstandard2.0\Emulator.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iiKyK4XZv/c+vX9aP9atW9QlpP32VqarcERvwBc4dUyELmpx8CoTyTHs93EFqC5Xsqmjeno8QUEFPgkMwjHe9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mykola\\source\\repos\\AdventOfCodeDay2\\Emulator\\Emulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
